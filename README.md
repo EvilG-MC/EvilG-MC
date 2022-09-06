@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://twitter.com/@NewJustEvil" target="blank"><img src="https://img.shields.io/twitter/follow/NewJustEvil?logo=twitter&style=for-the-badge" alt="@NewJustEvil" /></a> </p>
 
 -   🧰 I’m currently working on **Ganyu Bot**.
--   👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**.
--   📫 How to reach me **JustEvil#3961**.
+-   👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
+-   📫 How to reach me **JustEvil#3961** on discord or **[@ThatJustEvil](https://twitter.com/@NewJustEvil)** on twitter if you want.
 <br>
 <h2 align="left">✨ Actitity</h2>
 <p><img align="center" src="https://lanyard.cnrad.dev/api/391283181665517568" alt="EvilG-MC" /></p>
