@@ -10,8 +10,6 @@
     <a href="https://discordapp.com/users/391283181665517568" target="blank"><img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" /></a>
 </p>
 
----
-
 -   🧰 I’m currently working on **Ganyu Bot**.
 -   👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
 -   📫 I made things in my free time.
