@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### ✨ Actitity
+<h2 align="center">✨ Actitity</h2>
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
 </p>
@@ -35,7 +35,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
 </p>
 
-### 📖 Stats
+<h2 align="center">📖 Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
