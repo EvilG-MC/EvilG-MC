@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" /></a>
 </p>
 
--   🧰 I’m currently working on **Ganyu Bot**.
--   👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
--   📫 I made things in my free time.
--   📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
--   🐐 A cocogoat fan she is really cute.
+- 🧰 I’m currently working on **Ganyu Bot**.
+- 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
+- 📫 I made things in my free time.
+- 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
+- 🐐 A cocogoat fan she is really cute.
 
 ---
 
