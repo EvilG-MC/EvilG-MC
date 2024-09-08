@@ -36,7 +36,6 @@
     <h2>✨ Actitity</h2>
     <a href="https://discordapp.com/users/391283181665517568" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
-    <br/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
 </div>
 
