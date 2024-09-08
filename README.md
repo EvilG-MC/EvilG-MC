@@ -37,6 +37,7 @@
     <a href="https://discordapp.com/users/391283181665517568" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
     <br/>
+    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
 </div>
 
@@ -44,7 +45,7 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <a href="https://githuc,com/EvilG-MC" target="_blank">
+    <a href="https://github,com/EvilG-MC" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
     <a href="https://github.com/EvilG-MC" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
