@@ -16,6 +16,7 @@
 -   👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
 -   📫 I made things in my free time.
 -   📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
+-   🐐 A cocogoat fan she is really cute.
 
 ---
 
