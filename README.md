@@ -1,7 +1,7 @@
 <h2>Hi there! 👋</h2>
 
 <p>
-    <a href="https://github.com/EvilG-MC" target="_blank">
+    <a href="https://github.com/EvilG-MC" target="blank">
         <img align="right" src="https://github.com/EvilG-MC.png?size=210" alt="EvilG-MC" width="200"/>
     </a>
 </p>
@@ -42,11 +42,11 @@
 
 <div align="center">
     <h2>✨ Actitity</h2>
-    <a href="https://discordapp.com/users/391283181665517568" target="_blank">
+    <a href="https://discordapp.com/users/391283181665517568" target="blank">
         <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
     </a>
     <br/>
-    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
+    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="blank">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
     </a>
 </div>
@@ -55,13 +55,13 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <a href="https://github,com/EvilG-MC" target="_blank">
+    <a href="https://github,com/EvilG-MC" target="blank">
         <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
     </a>
-    <a href="https://github.com/EvilG-MC" target="_blank">
+    <a href="https://github.com/EvilG-MC" target="blank">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
     </a>
-    <a href="https://wakatime.com/@JustEvil" target="_blank">
+    <a href="https://wakatime.com/@JustEvil" target="blank">
 	    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustEvil&theme=dark&layout=compact&border_radius=5px&custom_title=JustEvil%27s%20Stats">
     </a>
 </div>
