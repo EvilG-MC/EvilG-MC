@@ -1,8 +1,6 @@
 <div align="center">
     <h2>Hi there 👋</h2>
-    <a href="https://github.com/EvilG-MC" target="_blank">
-        <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
-    </a>
+    <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
@@ -54,12 +52,8 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <a href="https://github.com/EvilG-MC" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
-    </a>
-    <a href="https://github.com/EvilG-MC" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
     <a href="https://wakatime.com/@JustEvil" target="_blank">
 	    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustEvil&theme=dark&layout=compact&border_radius=5px&custom_title=JustEvil%27s%20Stats">
     </a>
