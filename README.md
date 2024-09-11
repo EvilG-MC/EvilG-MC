@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Hi there 👋</h2>
     <a href="https://github.com/EvilG-MC" target="_blank">
-        <img width="1870" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
+        <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
     </a>
 </div>
 <br/>
@@ -18,11 +18,11 @@
     </a>
 </p>
 
-- 🧰 I’m currently working on **Ganyu Bot**.
+- 🧰 I’m currently working on **Ganyu** a discord bot.
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
 - 📫 I made things in my free time.
 - 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
-- 🐐 A ocogoat (Ganyu) fan... She is really cute.
+- 🐐 A cocogoat (Ganyu) fan... She is really cute.
 
 ---
 
