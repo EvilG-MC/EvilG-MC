@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Hi there 👋</h2>
     <a href="https://github.com/EvilG-MC" target="_blank">
-        <img width="1870" height="300" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
+        <img width="1870" height="250" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
     </a>
 </div>
 <br/>
