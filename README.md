@@ -1,11 +1,10 @@
-<h2>Hi there! 👋</h2>
-
-<p>
+<div align="center">
+    <h2>Hi there 👋</h2>
     <a href="https://github.com/EvilG-MC" target="_blank">
-        <img align="right" src="https://github.com/EvilG-MC.png?size=210" alt="EvilG-MC" width="200"/>
+        <img width="1870" height="300" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
     </a>
-</p>
-
+</div>
+<br/>
 <p align="left">
     I'm <b>JustEvil</b>, A random person who loves to fool around in his spare time and occasionally codes discord bots using <code>JS / TS</code> maybe I'm not the best at it, but I have fun doing it, which is what counts, right?
 </p> 
