@@ -18,7 +18,7 @@
 
 - 🧰 I’m currently working on **Ganyu** a discord bot.
 - 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
-- 📫 I made things in my free time.
+- 📫 I make things in my free time.
 - 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
 - 🐐 A cocogoat (Ganyu) fan... She is really cute.
 
