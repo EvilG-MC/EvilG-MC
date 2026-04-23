@@ -1,23 +1,19 @@
 <div align="center">
     <h2>Hi there 👋</h2>
-    <img width="1850" height="260" align="center" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
+    <img width="100%" src="https://i.imgur.com/5A6zfbS.png" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
-    I'm <b>JustEvil</b>, A random person who loves to fool around in his spare time and occasionally codes discord bots using <code>JS / TS</code> maybe I'm not the best at it, but I have fun doing it, which is what counts, right?
+    I'm <b>JustEvil</b>, A random person who loves to fool around in his spare time and occasionally codes discord bots using <code>typescript</code> maybe I'm not the best at it, but I have fun doing it, which is what counts, right?
 </p> 
 
 <p align="left">
-    <a href="https://twitter.com/@NewJustEvil" target="_blank">
-        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
-    </a>
-    <a href="https://discordapp.com/users/391283181665517568" target="_blank">
-        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" />
-    </a>
+    <a href="https://twitter.com/@NewJustEvil" target="_blank"><img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" /></a>
+    <a href="https://discordapp.com/users/391283181665517568" target="_blank"><img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" /></a>
 </p>
 
 - 🧰 I’m currently working on **Ganyu** a discord bot.
-- 👨‍💻 All of my projects are available in **[Repositories](https://github.com/EvilG-MC?tab=repositories)**,
+- 👨‍💻 All of my projects are available in **[repositories](https://github.com/EvilG-MC?tab=repositories)**,
 - 📫 I make things in my free time.
 - 📦 Owner of **[Ganyu Studios](https://github.com/Ganyu-Studios)**.
 - 🐐 A cocogoat (Ganyu) fan... She is really cute.
